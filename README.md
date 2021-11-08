@@ -1,4 +1,4 @@
-# ThisNameHasBeenCompromised
+# CodeForces SpeedRun
 megashitcoomer
 
 I sit down, I start thinking about jokes. I get an idea. Wouldn't it be comedic if I did all ~7200 problems (and new ones as they come)  from codeforces and upload the entire thing over here?
