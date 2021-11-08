@@ -27,4 +27,8 @@ I am new to competetive coding and C++ in general. I want to get better at progr
 
 -When I am not solving questions, I try to go through "a competitive coder's hand book" (sumn like that) and C++ books 
 
+-I refuse to make any grammatical corrections that I noticed upon re-reading ( stuff that straight up doesnt make sense because I had an idea and then I had ano- adventure time is my favourite tv show).
+
+-Read get'nt to know which questions I didn't get so far( I shall get to it later) and other anomalies ( I shall speak to the CEO of codeforces)
+
 -ohfacts/0f/zeroeff/occasionally 0facts . Remember these names(same person btw) , you'll see it pop up soon enough.
