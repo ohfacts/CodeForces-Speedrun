@@ -2,12 +2,10 @@
 megashitcoomer
 
 I sit down, I start thinking about jokes. I get an idea. Wouldn't it be comedic if I did all ~7200 problems (and new ones as they come)  from codeforces and upload the entire thing over here?
----
+
 I am laughing.
 
-I am new to competetive coding and C++ in general. I want to get better at programming, at algorithms especially, like Richard Hendricks from JoJo. I dropped Unity and picked up SFML and C++ for this very reason. It's a 2D top-down RPG so it wont be as difficult, but it in the process I will learn alot ( as I have in the past few days) , and most importantly how to make stand alone programs. I am tired of just making scripts.
-
-
+I am new to competetive coding and C++ in general.
 
 -I am doing this to get better , I have ordered the problems in increasing order of points and I solve them one after the other.
 
