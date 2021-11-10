@@ -21,7 +21,7 @@ I am new to competetive coding and C++ in general.
 
 -why is my grammar so weird, my subject very agreement and tenses are so mixed up.
 
--If I don't get a question, I solve it till I get it. I discuss it with my friend Ice, we're both at the same level. I don't use Google for reference in this regard.
+-If I don't get a question, I solve it till I get it. I don't use the internet for reference in this regard.
 
 -When I am not solving questions, I try to go through "a competitive coder's hand book" (sumn like that) and C++ books 
 
